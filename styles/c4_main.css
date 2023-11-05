@@ -14,7 +14,7 @@ body {
 /* the styles for the header */
 header img {
 	float: left;
-	text-indent: 30px
+	text-indent: 30px;
 }
 
 /* the styles for the main content */
@@ -31,7 +31,6 @@ main h2 {
 }
 main h3 {
 	font-size: 130%;
-	font-style: italic;
 	text-indent: 30px;
 }
 main a:hover {
